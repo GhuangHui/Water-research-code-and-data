@@ -1,0 +1,4 @@
+type,UnlogMean,UnlogConfdMin,UnlogConfdMax,p.value
+TN¡Ü0.75,64,27,113,4.57E-06
+"0.75<TN¡Ü1.4,",99,60,147,1.08E-09
+TN>1.4,66,34,106,1.55E-04

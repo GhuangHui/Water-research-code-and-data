@@ -1,0 +1,4 @@
+type,UnlogMean,UnlogConfdMin,UnlogConfdMax,p.value
+TN£ºTP,-0.5,-0.7,-0.3,1.60E-05
+TP,272,143,471,2.32E-09
+TN,5.5,1.7,9.4,0.004
